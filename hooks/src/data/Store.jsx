@@ -18,7 +18,6 @@ const Store = props => {
         })
     }
 
-
     return(
 
         <AppContext.Provider value={{
